@@ -1,1 +1,1 @@
-# cashflow-planner
+# CashManagementApp
